@@ -1,2 +1,1 @@
-# hospitalmanagement
-this project is in java language
+Hospital Management System built using Core Java, MySQL and JDBC with modules for patient, doctor, appointments and billing.
